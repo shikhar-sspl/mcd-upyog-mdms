@@ -31900,6 +31900,24 @@
       "actionid": 2960,
       "actioncode": "",
       "tenantId": "dl"
+  },
+	  {
+      "rolecode": "SUPERUSER",
+      "actionid": 2961,
+      "actioncode": "",
+      "tenantId": "dl"
+  },
+  {
+      "rolecode": "HQSTATEUSER",
+      "actionid": 2961,
+      "actioncode": "",
+      "tenantId": "dl"
+  },
+  {
+      "rolecode": "HQ_PROCESS_DEMAND_APPROVER",
+      "actionid": 2961,
+      "actioncode": "",
+      "tenantId": "dl"
   }
  ]
 }
